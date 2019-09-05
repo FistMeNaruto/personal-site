@@ -13,8 +13,8 @@ fields:
   description: ''
   config:
     required: true
-    date_format: 
-    time_format: kk:mm Z
+    date_format: YYYY/MM/DD
+    time_format: HH:mm
     display_utc: false
   default: now
 - name: hero_image
