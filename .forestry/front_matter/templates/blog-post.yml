@@ -23,4 +23,5 @@ fields:
     maxSize: 250
   label: Hero image
 pages:
+- content/blog/testing-1.md
 - content/blog/testing.md
